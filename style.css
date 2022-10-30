@@ -1,0 +1,104 @@
+#title{
+  background-color: #B3FFAE;
+  padding:5% 12%;
+
+}
+.about{
+  background-color: #B3FFAE;
+  margin-top: 10%;
+  font-family: 'Montserrat', sans-serif;
+}
+.title-image{
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+  border: 2px solid;
+}
+.img1{
+  position: absolute;
+  margin-left: 200px;
+
+}
+.img2{
+  position: absolute;
+  margin-right: 200px;
+
+}
+.img3{
+  margin-top: 200px;
+  margin-left: 100px;
+}
+.top-bar{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.5rem;
+}
+.feature-icon{
+  color: #000000;
+}
+.feature-icon:hover{
+  color: #2B7A0B;
+}
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+  text-align: center;
+  line-height: 1.5;
+}
+#hotplaces{
+  background-color: #B3FFAE;
+  text-align: left;
+}
+.hotplaces-image{
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+  float: right;
+  position: relative;
+  margin-top: 100px;
+  text-align: center;
+  right: 300px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.name{
+  font-size: 1.5rem;
+  padding-left: 20px;
+}
+.top-name{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+padding-top: 50px;
+  font-size: 4 rem;
+}
+#snippets{
+  text-align: center;
+  background-color: #F0EBCE;
+}
+.image-snip{
+  width: 250px;
+  height: 250px;
+}
+#last{
+  padding:7% 15%;
+  background-color: #F0FF42;
+}
+#footer{
+  text-align: center;
+  margin-top:30px;
+  padding-left: 10px;
+}
+.last-one{
+  text-align: center;
+}
+.last-button{
+  margin-top:20px;
+}
+.tour-guide{
+  height: 300px;
+  width: 300px;
+  text-align: center;
+}
+.tour{
+  padding:7% 15%;
+}
